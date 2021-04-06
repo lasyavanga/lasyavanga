@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Lasya Vanga! I am a third grader, learning Web Development.
+
+My favorite color is purple.
+
 <!--
 **lasyavanga/lasyavanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
