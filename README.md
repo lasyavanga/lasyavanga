@@ -2,6 +2,8 @@
 
 My name is Lasya Vanga! I am a third grader, learning Web Development.
 
+Don't forget to visit my website at [https://Lasya.net](https://Lasya.net)
+
 My favorite color is purple.
 
 <!--
