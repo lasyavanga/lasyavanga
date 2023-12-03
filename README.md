@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lasya Vanga! I am a fifth grader, learning Web Development.
+My name is Lasya Vanga! I am a sixth grader, learning Web Development.
 
 Don't forget to visit my website at [https://Lasya.net](https://Lasya.net)
 
